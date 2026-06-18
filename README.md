@@ -101,7 +101,7 @@ Backend Developer focused on building scalable and maintainable applications usi
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=02rrs&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=02rrs&theme=tokyonight" alt="GitHub Streak" />
 
 ---
 
