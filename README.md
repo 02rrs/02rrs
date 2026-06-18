@@ -95,7 +95,7 @@ Backend Developer focused on building scalable and maintainable applications usi
 
 ## 📊 GitHub Stats
 
-![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=02rrs\&show_icons=true\&theme=tokyonight)
+![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=02rrs&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -107,7 +107,7 @@ Backend Developer focused on building scalable and maintainable applications usi
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=02rrs\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=02rrs&layout=compact&theme=tokyonight)
 
 ---
 
